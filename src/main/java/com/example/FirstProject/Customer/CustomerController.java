@@ -7,6 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+//Controller for Rest API
+
 @RestController
 public class CustomerController
 {
